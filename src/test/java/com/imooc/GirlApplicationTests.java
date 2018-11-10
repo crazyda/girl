@@ -13,12 +13,10 @@ import org.springframework.test.context.junit4.SpringRunner;
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class GirlApplicationTests {
-	/**
-	 * Rigorous Test :-)
-	 */
+	
 	@Test
 	public void contestLoads() {
-
+		
 	
 	}
 }
